@@ -9,6 +9,8 @@ app_file: app.py    # The entry point of your app
 pinned: false       # Whether to pin the app on your profile (optional)
 ---
 
+[![CI](https://github.com/JayantSharma08/hf_demo/actions/workflows/main.yml/badge.svg)](https://github.com/JayantSharma08/hf_demo/actions/workflows/main.yml)
+
 # My Demo App
 This is a demo application using HuggingFace Spaces. Replace this description with details about your app.
 
